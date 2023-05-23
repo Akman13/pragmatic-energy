@@ -32,7 +32,7 @@ The Pragmatic Programmers team:
  - Displays a marker at all petrol station locations within view
  - Markers can be clicked for additional information
  - Full window mode: Toggle between the standard display and full window mode with the hotkey Ctrl+B
-![full window mode](https://github.com/Akman13/pragmatic-energy/blob/main/gifs/fullwindowmode.gif)
+![full window mode](https://github.com/Akman13/pragmatic-energy/blob/main/gifs/fullwindow-mode.gif)
 
 ## Left Side Pane
 ### Spotlight
