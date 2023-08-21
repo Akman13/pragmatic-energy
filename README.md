@@ -6,11 +6,8 @@ This app utilizes the Google Maps API to visually represent the locations of the
 Pragmatic Energy also utilizes an in-built REST JSON API to allow for communication between the client side and the server, providing the user a seamless experience with the client as the server-side data is rendered live on the browser.
 
 ## Access
-This app is yet to be deployed however can be accessed by manual installation. To do so, you will need:
-- A valid Google Maps API key (can be acquired [here](https://developers.google.com/maps/documentation/javascript/get-api-key)) and a valid Yahoo Finance RapidAPI key (can be acquired [here](https://rapidapi.com/apidojo/api/yahoo-finance1)). Both API keys should be inserted into the .env.sample file
-- To install the dependencies listed in the package.json file
-- To populate the database with the stations information. This can be done by running the ```import_stations.js``` file
-
+Pragmatic Energy can be access [here](https://energy.cyclic.cloud/).
+The app has been deployed with the front-end on Cyclic and with ElephantSQL hosting the database. 
 
 ## Collaborators
 The Pragmatic Programmers team:
